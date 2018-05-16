@@ -5,6 +5,10 @@ class Zadanie1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("Dziś jest środa");
+        //nie pamietam jak skrótem kopiowało się linjike wyżej
+        //
+        System.out.println("Zadanie1");
 
     }
 }
