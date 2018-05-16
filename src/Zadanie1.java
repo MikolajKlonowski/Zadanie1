@@ -15,7 +15,8 @@ class Zadanie1 {
         System.out.println("9+8");
         System.out.println('7'+'8') ;
         System.out.println("7"+"8");
-        System.out.print(7+8);
+        System.out.println(7+8);
+        System.out.print(7*8);
 
     }
 }
