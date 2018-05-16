@@ -9,6 +9,13 @@ class Zadanie1 {
         //nie pamietam jak skrótem kopiowało się linjike wyżej
         //
         System.out.println("Zadanie1");
+        /*
+        Mój polski nie jest najlepszy sorry
+         */
+        System.out.println("9+8");
+        System.out.println('7'+'8') ;
+        System.out.println("7"+"8");
+        System.out.print(7+8);
 
     }
 }
