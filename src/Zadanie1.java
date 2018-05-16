@@ -3,6 +3,8 @@ class Zadanie1 {
         System.out.println("uczę");
         System.out.println("się");
         System.out.println("programowania");
+        System.out.println("i");
+        System.out.println("commitowania");
 
     }
 }
